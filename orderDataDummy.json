@@ -1,0 +1,25 @@
+{
+  "shippingInfo": {
+    "address": "555 test ",
+    "city": "BC",
+    "phone": "5555555",
+    "zipCode": "8888",
+    "state": "sc",
+    "country": "Br"
+  },
+  "orderItems": [
+    {
+      "name": "xxx",
+      "quantity": 1,
+      "image": "url",
+      "price": 55,
+      "product": "662280fc9d7c6e90b4b69214"
+    }
+  ],
+  "paymentInfo": {
+    "id": "test"
+  },
+  "taxAmount": 44,
+  "shippingAmount": 55,
+  "totalAmount": 100
+}
